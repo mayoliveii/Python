@@ -1,5 +1,5 @@
 # Olá! Seja bem-vindo ao meu repositório de Streamlit. 
-### Durante a graduação em Engenharia de Petróleo, na oitava fase, fiz a disciplina de Computação Avançada, onde trabalhamos bastante com Python apresentando-o eno PyCharm.
+### Durante a graduação em Engenharia de Petróleo, na oitava fase, fiz a disciplina de Computação Avançada, onde trabalhamos bastante com Python apresentando-o em PyCharm.
 
 ## 🔧 Instalação
 - Para que seu código rode sem problemas, o download de PyCharm deve ser efetuado após o do Anaconda. De preferência, faça o download de **PyCharm** por lá.
