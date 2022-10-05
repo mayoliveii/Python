@@ -1,4 +1,4 @@
-# Olá! Seja bem-vindo ao meu repositório de Streamlit. 
+# Olá! Seja bem-vindo ao meu repositório de Python e Streamlit. 
 ### Durante a graduação em Engenharia de Petróleo, na oitava fase, fiz a disciplina de Computação Avançada, onde trabalhamos bastante com Python apresentando-o em PyCharm.
 
 ## 🔧 Instalação
